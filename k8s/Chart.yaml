@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ALICE_DLP
+description: ALICE DLP
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
