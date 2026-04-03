@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_DLP
+name: alice-dlp
 description: ALICE DLP
 type: application
 version: 0.1.0
